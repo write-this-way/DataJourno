@@ -45,13 +45,24 @@ a code block
 2. Reference the file in your Markdown
 3. Be sure to add an alt text description to your image
 
-`!['Name of the image','Alt text'](/File path to the image or an image URL)`
+`!['Name I give the image','Alt text desscribes the image'](/File path to the image OR an image URL)`
 
+**Image from a .jpg file in the repo*
 !['Peony','Peony flower bloom'](/peony.jpg)
 
+**Image from a URL**
 !['Peonies bouquet','Pink peonies bouquet in a vase'](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
 
 
+*This is a link*<br>
+[Google](https://www.google.com/)
+
+*This is a blockquote*
+
+In the wise words of Blackstreet from "No Diggity":
+
+> How to get down<br>
+> Good Lord
 
 
 
