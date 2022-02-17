@@ -16,12 +16,8 @@ Before I started, I froze and bolded the header row for each of the sheets. On t
 Students pursuing a degree in nursing are often looking for a stable career path with good pay. The tradeoff that nursing students accept is the hard work they put in as an undergraduates. Nursing majors have to keep high GPAs, take intense classes, and are often applying to programs that are heavily impacted (too many students are applying at once). While nursing major’s median starting salary is in the top ten of majors analysed by the Wall Street Journal at $54,200, their growing potential is limited. Nursing majors have a percent change from starting salaries to mid career salaries of only 23.6 percent, the second lowest of all majors analysed. Why are nursing majors not paid well for the high stress student enviornment?
 
 
-https://datawrapper.dwcdn.net/rdqOf/1/
-
 !['majors with lowest change in salary'](/rdqOf-nine-college-majors-with-the-lowest-change-in-salary-over-a-career.png)
 
-
-https://datawrapper.dwcdn.net/uqmpf/1/
 
 !['Majors with lowest change in salary by starting and mid career medians'](/uqmpf-nine-college-majors-with-the-lowest-potential-for-salary-growth.png)
 
