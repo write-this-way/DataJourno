@@ -64,6 +64,8 @@ In the wise words of Blackstreet from "No Diggity":
 > Shawty get down<br>
 > Good Lord
 
+Easy Markdown table generator:
+[TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
 
 
 
