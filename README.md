@@ -1,9 +1,9 @@
 # Final Project
-### By Sage Alexander <br>
+### By Student <br>
 
 This project was made possible by data from the Wall Street Journal, [Where it Pays to Attend College; Salaries by College and College Degree Program](https://www.kaggle.com/wsj/college-salaries/) and Payscale, Inc. 
 
-My google sheets spreadsheet can be found [here.](https://docs.google.com/spreadsheets/d/1mSPW5yizGISr7Jcihzyeh2KGPuX2E4rtufE7YaNjahE/edit?usp=sharing)
+My google sheets spreadsheet can be found [here.]()
 Before I started, I froze and bolded the header row for each of the sheets. On the salaries by College Type spreadsheet, I added a column for TYPE of school.
 
 
